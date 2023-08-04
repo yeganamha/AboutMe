@@ -1,0 +1,29 @@
+@font-face {
+    font-family: EduSABeginner;
+    src: url();
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(78, 76, 76);
+}
+h1, h3{
+    color: cornflowerblue;
+}
+.YellowSpan{
+    color: yellow;
+}
+.IMDBRed{
+    color: red;
+    text-decoration: underline;
+}
+.Happy{
+    width: 50%;
+    display: inline-block;
+}
+.Sad{
+    width: 50%;
+}
+.InlineP{
+    display: inline-block;
+}
